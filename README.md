@@ -1,5 +1,6 @@
 # Capstone-2_Superstore-Customers
 <img width="1350" alt="Screenshot 2024-08-24 at 14 49 35" src="https://github.com/user-attachments/assets/27962f18-136d-488b-91fb-84b978f2c757">
+
 ## <span style="color:navy">Background</span>
 Superstore ini adalah sebuah perusahaan ritel yang menawarkan berbagai kategori produk kepada pelanggannya, termasuk anggur, buah-buahan, daging, ikan, produk manis, dan produk emas. Perusahaan ini telah beroperasi selama beberapa tahun dan memiliki fokus pada kampanye pemasaran yang tersegmentasi dan personalisasi. Dengan basis pelanggan yang cukup beragam, superstore ini melayani berbagai segmen demografis mulai dari keluarga dengan anak hingga individu lajang, dengan berbagai tingkat pendapatan.
 

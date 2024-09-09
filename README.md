@@ -58,4 +58,4 @@ Superstore menghadapi tantangan dalam mempertahankan pelanggan bernilai tinggi d
 * Metode: Gunakan alat analitik seperti Tableau, Google Analytics, atau platform CRM untuk melacak dan mengevaluasi performa kampanye dan perilaku pelanggan.
 
 # <span style="color:navy">Dashboard</span>
-https://public.tableau.com/app/profile/nuur.muhammad.ilham4034/viz/StorySuperstore_17247006280310/Story1?publish=yes
+[View the Supermarket Customers Dashboard on Tableau](https://public.tableau.com/app/profile/nuur.muhammad.ilham4034/viz/StorySuperstore_17247006280310/Story1?publish=yes)

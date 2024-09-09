@@ -56,3 +56,6 @@ Superstore menghadapi tantangan dalam mempertahankan pelanggan bernilai tinggi d
 * Tindakan: Terapkan proses analisis data secara berkala (bulanan atau kuartal) untuk mengukur efektivitas strategi pemasaran. Gunakan analisis RFM yang berkelanjutan untuk menilai perubahan perilaku pelanggan dan menyesuaikan kampanye di masa depan.
 * Target: Meningkatkan efisiensi kampanye dengan fokus pada segmentasi pelanggan dan ROI yang lebih tinggi.
 * Metode: Gunakan alat analitik seperti Tableau, Google Analytics, atau platform CRM untuk melacak dan mengevaluasi performa kampanye dan perilaku pelanggan.
+
+# <span style="color:navy">Dashboard</span>
+https://public.tableau.com/app/profile/nuur.muhammad.ilham4034/viz/StorySuperstore_17247006280310/Story1?publish=yes

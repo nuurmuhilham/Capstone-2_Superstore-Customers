@@ -1,4 +1,4 @@
-# Capstone-2_Superstore-Customers
+# Capstone-2_Supermarket Customer Segmentation and Campaign Effectiveness Analysis
 <img width="1350" alt="Screenshot 2024-08-24 at 14 49 35" src="https://github.com/user-attachments/assets/27962f18-136d-488b-91fb-84b978f2c757">
 
 ## <span style="color:navy">Background</span>
